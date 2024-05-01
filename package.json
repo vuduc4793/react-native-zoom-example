@@ -14,8 +14,11 @@
     "sdk:get-jwt": "npx ts-node api/getSdkJwtToken.ts > ./api/sdk.jwt.json"
   },
   "dependencies": {
+    "jsrsasign": "^11.1.0",
+    "moment": "^2.30.1",
     "react": "18.2.0",
     "react-native": "0.72.2",
+    "react-native-pure-jwt": "^3.0.2",
     "react-native-url-polyfill": "2.0.0",
     "react-native-zoom-us": "7.0.0"
   },
