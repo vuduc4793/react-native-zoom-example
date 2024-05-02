@@ -7,8 +7,8 @@
 import moment from 'moment';
 import KJUR from 'jsrsasign'
 import { sign } from 'react-native-pure-jwt';
-const sdkKey = 'z6riwjXRwSYm3Hn4_EF9g';
-const sdkSecret = 'A3TdvGgYbUP5kvzGzTxuhgij2osfJW44';
+const sdkKey = 'TK0BRmYKSSKPpKMojbxMOw';
+const sdkSecret = 'csHyInyKwU1pq9UOPiXtCqdso4rxyvmb';
 
 function makeId(length: number) {
   var result = '';

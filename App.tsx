@@ -48,7 +48,8 @@ const exampleStartMeeting = {
 };
 
 // 2b. `TODO` Fill in invite link:
-const exampleJoinLink = 'https://us05web.zoom.us/j/5551247817?pwd=I4ugPrvLz0w5i64HTpTjDSIpja3bdn.1';
+// const exampleJoinLink = 'https://us05web.zoom.us/j/5551247817?pwd=I4ugPrvLz0w5i64HTpTjDSIpja3bdn.1';
+const exampleJoinLink = 'https://us05web.zoom.us/j/86287567743?pwd=oqBGcDalEEzJwuQz046vYFUlnU0eeZ.1';
 
 const exampleJoinMeeting = extractDataFromJoinLink(exampleJoinLink);
 
